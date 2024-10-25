@@ -26,16 +26,17 @@ h2 {
 }
 
 button {
-    background: #28a745;
+    background-color: #b80c0c;
     color: #ffffff;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
     border-radius: 5px;
 }
+ 
 
 button:hover {
-    background: #218838;
+    background: #b80c0c;
 }
 
 footer {
